@@ -20,7 +20,6 @@
 | LP | 10% | 10M | `0xFf7b...35D1` |
 
 ## Certificações Legais (Mãe de Todas as FIX!)
-![Certificado INPI FIX Investimentos](https://github.com/investimentos-fix/FIXTrust/blob/main/certificado-inpi-fix-thumb.png?raw=true)
 
 **Registro de Marca INPI Nº 927145888 (2023)**  
 - **Título:** FIX Investimentos  
@@ -31,7 +30,6 @@
 Base legal pra toda a família FIX:  
 **Fix Investimentos → Fix Empresarial → Fix Strategy → FIXTrust → e mais virão!**
 
-[Ver PDF Completo no GitHub](https://github.com/investimentos-fix/FIXTrust/blob/main/certificado-inpi-fix-investimentos.pdf)  
 [Ver no Google Drive (backup)](https://drive.google.com/file/d/1tgMRLrZ6eL9A9JDsZUKooRium89OQFPh/view?usp=sharing)
 
 *Compliance total: Regulamentado pela Lei 9.279/96 (Propriedade Industrial).*
