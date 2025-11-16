@@ -1,57 +1,49 @@
-<div align="center">
-  <img src="https://i.ibb.co/5YkJ3nK/fixtrust-logo.png" width="150" />
-  <h1>🚀 FIXTrust (FIXT)</h1>
-  <p><strong>Token ERC-20 | Presale Ativa | Uniswap V3 | DexScreener LIVE</strong></p>
+# FIXTrust (FIXT) - DeFi Brasileiro com Impacto Global
 
-[![GitHub Stars](https://img.shields.io/github/stars/investimentos-fix/FIXTrust?style=social)](https://github.com/investimentos-fix/FIXTrust)
-[![Etherscan](https://img.shields.io/badge/Etherscan-Verified-blue)](https://etherscan.io/address/0x3bEd414F434A5E1FcCf9fe0fFbD8Eb6Cf1FdFC98)
-[![Uniswap](https://img.shields.io/badge/Uniswap-Swap-green)](https://app.uniswap.org/swap?outputCurrency=0x3bEd414F434A5E1FcCf9fe0fFbD8Eb6Cf1FdFC98)
-[![DexScreener](https://img.shields.io/badge/DexScreener-LIVE-orange)](https://dexscreener.com/ethereum/0x3bEd414F434A5E1FcCf9fe0fFbD8Eb6Cf1FdFC98)
+**Presale ATIVA → 64.000 FIXT por 1 ETH + 10% bônus (72h limitadas)**  
+Preço fixo: **US$0.05**  
+Pool V3 já live na Uniswap Ethereum Mainnet  
 
-</div>
+**Backed by FIX Investimentos** – Marca registrada INPI Nº 927145888 (2023), hub de consultoria financeira e soluções empresariais para inovação sustentável.
 
----
+## 🔗 Links Oficiais
+- **Site & Presale:** [fixtrust.carrd.co](https://fixtrust.carrd.co) – Conecte MetaMask e compre agora.
+- **Token Contrato (ERC-20):** [0x3bEd414F434A5E1FcCf9fe0fFbD8Eb6Cf1FdFC98](https://etherscan.io/address/0x3bEd414F434A5E1FcCf9fe0fFbD8Eb6Cf1FdFC98) – Total Supply: 100M FIXT.
+- **Presale Contrato:** [0xef7d0e46525b7ba7e72ff40dc31caf2f160483b6](https://etherscan.io/address/0xef7d0e46525b7ba7e72ff40dc31caf2f160483b6) – Hard Cap: ~825 ETH (US$3.3M).
+- **Whitepaper 2.0 (Completo):** [Google Docs](https://docs.google.com/document/d/1UygfKwkYV-Qz8B3GrX0a8ugrBEGj6FKjo_OglxZi0qw/edit?usp=sharing) ou [PDF no Repo](https://github.com/investimentos-fix/FIXTrust/blob/main/Whitepaper%20-%20FIXTrust%20-%202.0.pdf) – Visão, QTGen, roadmap e tokenomics detalhados.
+- **Uniswap V3 Router (Imutável):** [0xE592427A0AEce92De3Edee1F18E0157C05861564](https://app.uniswap.org/#/swap?outputCurrency=0x3bEd414F434A5E1FcCf9fe0fFbD8Eb6Cf1FdFC98).
+- **Socials:** [X/Twitter @FixTrust69128](https://twitter.com/FixTrust69128) | [Telegram Oficial](https://t.me/FIXTrustOficial) | [NFT Founder #1.126.566](https://etherscan.io/nft/0xc36442b4a4522e871399cd717abdd847ab11fe88/1126566).
+- **Holders & Staking:** [0xdcb23c7Eb4A14C09545a326A1874c959ab8c93Ee](https://etherscan.io/address/0xdcb23c7Eb4A14C09545a326A1874c959ab8c93Ee) – 8-12% APY em dividends de QTGen.
+- **Public Sale Wallet:** [0x254a4287d8e170e007ef02e6329ba53224043e26](https://etherscan.io/address/0x254a4287d8e170e007ef02e6329ba53224043e26) – 70M FIXT alocados.
 
-## 🪙 Tokenomics (100M FIXT)
-| Alocação | % | Quantidade | Carteira |
-|--------|----|------------|----------|
-| Public Sale | 70% | 70M | `0x254a...3e26` |
-| Treasury | 20% | 20M | Presale Contract |
-| LP | 10% | 10M | `0xFf7b...35D1` |
+## Visão Geral (Do Whitepaper v2.0)
+FIXTrust é a plataforma DeFi da **FIXStrategy** (FIX Investimentos) para captar capital em projetos estratégicos, com foco em energia limpa via **QTGen** – nosso gerador híbrido quântico (betavoltaico + Halbach rotor). ≥70% dos proceeds da presale vão direto pro protótipo e produção, resolvendo gaps globais: data centers sem energia (Microsoft/Google), mineração crypto cara e 750M pessoas off-grid (ONU 2024).
 
-## Certificações Legais (Mãe de Todas as FIX!)
+**Por quê FIXTrust?**  
+- **DeFi Real com Utility:** Governança DAO, oráculos Chainlink pra transparência, resgate anytime em ETH.  
+- **Impacto Global:** QTGen lança 2026 (1-7.5 kVA, US$1.499–8.799), com 5% das unidades doadas (meta: 10.000 kits grátis até 2030 no Nordeste BR, Amazônia, Nigéria, Quênia, Gana e Haiti).  
+- **Revenues pro Holder:** 30% dos lucros QTGen em USDT via staking; 50% buyback/burn pra valorizar FIXT.
 
-**Registro de Marca INPI Nº 927145888 (2023)**  
-- **Título:** FIX Investimentos  
-- **Classe:** 36 (Serviços Financeiros, Investimentos e Blockchain)  
-- **Validade:** Nacional (Brasil), renovável  
-- **Emitido por:** Instituto Nacional da Propriedade Industrial (INPI)  
+## Tokenomics (100M Total Supply – Fixo e Auditado)
+Alinhado ao whitepaper: Distribuição segura, com foco em liquidez e crescimento sustentável.
 
-Base legal pra toda a família FIX:  
-**Fix Investimentos → Fix Empresarial → Fix Strategy → FIXTrust → e mais virão!**
+| Alocação | % | Quantidade | Wallet/Detalhes |
+|----------|---|------------|-----------------|
+| **Presale** | 20% | 20M FIXT | [Contrato Presale](https://etherscan.io/address/0xef7d0e46525b7ba7e72ff40dc31caf2f160483b6) – 64k/ETH +10% bônus. |
+| **Public Sale** | 70% | 70M FIXT | [Wallet Pública](https://etherscan.io/address/0x254a4287d8e170e007ef02e6329ba53224043e26) – Pós-Uniswap Q1/2026. |
+| **Reserve/Liquidity/Marketing** | 10% | 10M FIXT | [Contrato Token](https://etherscan.io/address/0x3bEd414F434A5E1FcCf9fe0fFbD8Eb6Cf1FdFC98) – 15% pra LP travada + rewards. |
 
-[Ver no Google Drive (backup)](https://drive.google.com/file/d/1tgMRLrZ6eL9A9JDsZUKooRium89OQFPh/view?usp=sharing)
+**Utilities:** Governança DAO, dividends QTGen (staking 8-12% APY), burn em resgates. Pool V3 live com ~US$15 liquidez inicial – preço ~US$0.05 no DexScreener.
 
-*Compliance total: Regulamentado pela Lei 9.279/96 (Propriedade Industrial).*
----
+## Roadmap Rápido (Do Whitepaper)
+- **Q4 2025:** Presale fecha 30/11, audit final, patente provisória QTGen.  
+- **Q1 2026:** Listagens Uniswap/SushiSwap, vídeo protótipo QTGen, staking live.  
+- **Q2-Q3 2026:** Produção piloto, parcerias (1inch, Decathlon BR), primeiros kits humanitários.  
+- **2027+:** Escala global (15-30 kVA), 100k doações totais até 2030.
 
-## 🔗 Links Rápidos
-- **Contrato**: [Etherscan](https://etherscan.io/address/0x3bEd414F434A5E1FcCf9fe0fFbD8Eb6Cf1FdFC98)
-- **Pool V3**: [Uniswap](https://app.uniswap.org/add/v3/ETH/0x3bEd414F434A5E1FcCf9fe0fFbD8Eb6Cf1FdFC98)
-- **Swap 1-Clique**: [Uniswap](https://app.uniswap.org/swap?outputCurrency=0x3bEd414F434A5E1FcCf9fe0fFbD8Eb6Cf1FdFC98)
-- **DexScreener**: [FIXT/ETH](https://dexscreener.com/ethereum/0x3bEd414F434A5E1FcCf9fe0fFbD8Eb6Cf1FdFC98)
-- **Tx do Pool**: [Etherscan](https://etherscan.io/tx/0x320ef5185a)
+**Código 100% Aberto & Verificado:** Contratos em Solidity v0.8.20 com OpenZeppelin. Testados, auditados Q4/2025. DYOR – Não é conselho financeiro.
 
----
+**Chegou cedo, impacta mais.** Entre na presale e faça parte da revolução energética global.  
+#DeFi #QTGen #FIXTrust #EnergiaLimpa  
 
-## 📄 Documentos
-- [Smart Contract](contracts/FIXTrust.sol)
-- [GitHub Pages](https://investimentos-fix.github.io/FIXTrust)
-
----
-
-<div align="center">
-  <p><strong>Presale com bônus • Pool ao vivo • Comunidade em alta</strong></p>
-  <a href="https://t.me/fixtrust">Telegram</a> • 
-  <a href="https://x.com/fixtrust">X/Twitter</a>
-</div>
+FIXStrategy Team – Novembro 2025
