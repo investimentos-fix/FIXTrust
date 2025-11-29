@@ -1,79 +1,80 @@
-# FIXTrust ($FIXT$): Gerador Híbrido Quântico (QTGen) e Capitalização DeFi
+# FIXTrust ($FIXT$): Quantum Hybrid Generator (QTGen) & DeFi Capitalization
 
-**Repositório Oficial do projeto de finanças descentralizadas FIXTrust, impulsionado pela FIXStrategy.**
+**Official GitHub Repository for the FIXTrust decentralized finance project, powered by FIXStrategy.**
 
-## 💡 Visão Geral do Projeto: Utilidade no Mundo Real ($RWA$)
+## 💡 Project Overview: Real World Utility ($RWA$)
 
-FIXTrust é uma plataforma $DeFi$ projetada para levantar capital para os projetos estratégicos da FIXStrategy, com foco central no desenvolvimento e produção em massa do **QTGen (Gerador Híbrido Quântico)**. O token $FIXT$ serve como instrumento financeiro essencial para a reestruturação corporativa e concede aos *holders* direitos a dividendos provenientes das vendas do QTGen.
+FIXTrust is a $DeFi$ platform designed to raise capital for the strategic projects of FIXStrategy, with the core focus being the development and mass production of the **QTGen (Quantum Hybrid Generator)**. The $FIXT$ token serves as a key financial instrument for corporate restructuring and grants holders dividend rights derived from QTGen sales.
 
-O projeto aborda déficits globais de energia críticos—agravados pelo boom da $AI$ e pela falta persistente de acesso a energia confiável—financiando uma solução disruptiva.
+The project addresses critical global energy deficits—aggravated by the $AI$ boom and persistent lack of access to reliable power—by financing a disruptive solution.
 
-## ⚙️ Tecnologia Central: O QTGen
+## ⚙️ Core Technology: The QTGen
 
-O QTGen é uma família proprietária de geradores quânticos-híbridos (1 kVA a $7.5$ kVA), silenciosos e projetados para soluções de energia de longo prazo e baixa manutenção.
+The QTGen is a proprietary family of silent, quantum-hybrid generators (1 kVA to $7.5$ kVA) designed for long-term, low-maintenance energy solutions.
 
-| Componente | Função | Vida Útil |
+| Component | Function | Lifetime |
 | :--- | :--- | :--- |
-| **Célula Betavoltaica** | Carga constante e sustentação do rotor | 50-100 anos |
-| **Bateria de Partida** | Torque de inicialização instantâneo | 8-12 anos |
-| **Rotor Halbach** | Geração contínua e estável | 50+ anos |
+| **Betavoltaic Cell** | Constant charge & rotor sustainment | 50-100 years |
+| **Starting Battery** | Instant startup torque | 8-12 years |
+| **Halbach Rotor** | Continuous, stable generation | 50+ years |
 
-**Status:** Conclusão do protótipo e vídeo de validação pública agendados para **Q2 2026 (Junho)**.
+**Status:** Prototype completion and public validation video scheduled for **Q2 2026 (June)**.
 
 ---
 
-## 🔒 Informações do Token e Contrato
+## 🔒 Token & Contract Information
 
-O token $FIXT$ é um padrão ERC-20 implantado na Ethereum Mainnet.
+The $FIXT$ token is an ERC-20 standard deployed on the Ethereum Mainnet.
 
-| Métrica | Detalhe |
+| Metric | Detail |
 | :--- | :--- |
-| **Nome do Token** | FIXTrust |
-| **Símbolo** | $FIXT$ |
-| **Oferta Total** | $100.000.000$ (Fixo) |
-| **Decimais** | 18 |
-| **Endereço do Contrato** | `0x3bEd414F434A5E1FcCf9fe0fFbD8Eb6Cf1FdFC98` |
-| **Etherscan** | [Link do Contrato Verificado](https://etherscan.io/token/0x3bEd414F434A5E1FcCf9fe0fFbD8Eb6Cf1FdFC98) |
+| **Token Name** | FIXTrust |
+| **Symbol** | $FIXT$ |
+| **Total Supply** | 100,000,000 (Fixed) |
+| **Decimals** | 18 |
+| **Contract Address** | `0x3bEd414F434A5E1FcCf9fe0fFbD8Eb6Cf1FdFC98` |
+| **Etherscan** | [Verified Contract Link](https://etherscan.io/token/0x3bEd414F434A5E1FcCf9fe0fFbD8Eb6Cf1FdFC98) |
 
-## 💰 Tokenomics e Utilidade
+## 💰 Tokenomics & Utility
 
-**Alocação da Oferta Total:**
-* **$50\%$** - Venda Pública em Liquidez (Uniswap V3)
-* **$35\%$** - Alocação Fundacional e Ajuste de Passivos (*vesting* de 36 meses)
-* **$10\%$** - Pool de Liquidez ($LP$) Alocado e Travado
-* **$5\%$** - Tesouraria Operacional
+**Total Supply Allocation:**
+* **$50\%$** - Public Liquidity Sale (Uniswap V3)
+* **$35\%$** - Foundational Allocation & Liability Adjustment (36-month vesting)
+* **$10\%$** - Allocated & Locked LP Pool
+* **$5\%$** - Operational Treasury
 
-### Utilidade Principal ($FIXT$)
+### Key Utility ($FIXT$)
 
-1.  **Governança $DAO$:** *Holders* participam de decisões-chave (e.g., ajuste de taxas, reinvestimento).
-2.  **Dividendos QTGen:** $30\%$ das receitas do QTGen são distribuídas aos *stakers* de $FIXT$ via $USDT$.
-3.  **Proteção de Liquidez:** O *vesting* para a alocação de $35\%$ está estritamente vinculado à **entrega e verificação pública do protótipo QTGen** e à **conclusão da Auditoria CertiK**.
+1.  **DAO Governance:** Holders participate in key decisions (e.g., fee adjustments, reinvestment).
+2.  **QTGen Dividends:** $30\%$ of QTGen revenues are distributed to $FIXT$ holders via staking in $USDT$.
+3.  **Liquidity Protection:** Vesting for the $35\%$ allocation is strictly tied to the **delivery and public verification of the QTGen prototype** and the **completion of the CertiK Audit**.
 
-### Distribuição da Receita do QTGen
+### QTGen Revenue Distribution
 
-| Propósito | Compartilhamento | Descrição |
+| Purpose | Share | Description |
 | :--- | :--- | :--- |
-| **Buyback / Burn** | $50\%$ | Mecanismo deflacionário para suporte ao preço de mercado. |
-| **Dividendos** | $30\%$ | Retorno direto aos *stakers* de $FIXT$ ($USDT$). |
-| **Expansão / P&D** | $15\%$ | Financiamento para escala global e pesquisa futura. |
-| **Doações** | $5\%$ | Dedicado à QTGen Light Foundation (meta de $5.000$ kits). |
+| **Buyback / Burn** | $50\%$ | Deflationary mechanism for supporting market price. |
+| **Dividends** | $30\%$ | Direct returns to $FIXT$ stakers ($USDT$). |
+| **Expansion / R&D** | $15\%$ | Funding for global scaling and future research. |
+| **Donations** | $5\%$ | Dedicated to the QTGen Light Foundation (5,000 kits goal). |
 
 ---
 
-## 📅 Destaques do Roadmap (V2.1)
+## 📅 Roadmap Highlights (V2.1)
 
-| Período | Marcos Principais |
+| Period | Key Milestones |
 | :--- | :--- |
-| **Q4 2025** | Liquidez Inicial Uniswap V3 (Ativa); **Preparação** da Auditoria CertiK; $DAO$ Launch. |
-| **Q1 2026** | **Início da Auditoria CertiK Externa**; Expansão $DEX$ (SushiSwap/Outros); *Staking* Live. |
-| **Q2 2026** | Produção Piloto; **Protótipo Final QTGen e Vídeo de Validação (Junho)**. |
-| **Q3 2026** | Lançamento no Brasil (Marktplace); Distribuição de Kits Humanitários. |
+| **Q4 2025** | Initial Liquidity Uniswap V3 (Active); CertiK Audit **Preparation**; DAO Launch. |
+| **Q1 2026** | **Commencement of CertiK Audit**; DEX Expansion (SushiSwap/Others); Staking Live. |
+| **Q2 2026** | Pilot Production; **Final QTGen Prototype & Validation Video (June)**. |
+| **Q3 2026** | Brazil Launch (Marktplace); Humanitarian Kits Distribution. |
 
 ---
 
-## 🌐 Conecte-se
+## 🌐 Get Connected
 
-* **Whitepaper (V2.1):** [Link para o Whitepaper PDF/MD]
+* **Whitepaper (V2.1):** [Link to Whitepaper PDF/MD]
 * **Website:** [https://fixtrust.carrd.co/](https://fixtrust.carrd.co/)
 * **Telegram:** [https://t.me/FIXTrustOficial](https://t.me/FIXTrustOficial)
-* **Uniswap (Negocie):** [Link de Swap do Uniswap]
+* **Uniswap (Trade):** [Uniswap Swap Link]
+* Updated README to English V2.1
