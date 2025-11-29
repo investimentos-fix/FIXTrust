@@ -60,12 +60,12 @@ The $FIXT$ token is an ERC-20 standard deployed on the Ethereum Mainnet.
 
 ---
 
-## 📅 Roadmap Highlights (V2.1)
+## 📅 Roadmap Highlights (V2.13)
 
 | Period | Key Milestones |
 | :--- | :--- |
 | **Q4 2025** | Initial Liquidity Uniswap V3 (Active); CertiK Audit **Preparation**; DAO Launch. |
-| **Q1 2026** | **Commencement of CertiK Audit**; DEX Expansion (SushiSwap/Others); Staking Live. |
+| **Q1 2026** | **Commencement of CertiK Audit**; **Multi-Chain Expansion (BSC/PancakeSwap & SushiSwap)**; Staking Live. |
 | **Q2 2026** | Pilot Production; **Final QTGen Prototype & Validation Video (June)**. |
 | **Q3 2026** | Brazil Launch (Marktplace); Humanitarian Kits Distribution. |
 
@@ -73,8 +73,8 @@ The $FIXT$ token is an ERC-20 standard deployed on the Ethereum Mainnet.
 
 ## 🌐 Get Connected
 
-* **Whitepaper (V2.1):** [Link to Whitepaper PDF/MD]
+* **Whitepaper (V2.13):** [Link to Whitepaper PDF/MD]
 * **Website:** [https://fixtrust.carrd.co/](https://fixtrust.carrd.co/)
 * **Telegram:** [https://t.me/FIXTrustOficial](https://t.me/FIXTrustOficial)
 * **Uniswap (Trade):** [Uniswap Swap Link]
-* Updated README to English V2.1
+* README V2.13
